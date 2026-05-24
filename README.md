@@ -41,7 +41,7 @@ WinOptKP is divided into dedicated modules to give you precise control over your
 ### >_ Live Console
 * **Live Execution Terminal:** Monitor live system output and execution commands right inside the app, running with elevated administrative permissions.
 
-**NOTE: The features, UI elements, and system tweaks described or shown in this documentation are subject to change. Specific tools may be added, modified, or removed in future releases without prior notice as the application evolves.**
+**Disclaimer of Feature Continuity: The developer reserves the right to modify, add, or deprecate any features, system tweaks, or UI components described herein. The current feature list reflects the application state at the time of documentation and is not a binding commitment for future functionality.**
 ---
 
 ## 🛠️ Installation & Usage
