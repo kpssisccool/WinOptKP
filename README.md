@@ -39,8 +39,9 @@ WinOptKP is divided into dedicated modules to give you precise control over your
 * **Revert System Changes:** Easily undo system modifications and return them to standard Windows defaults. *(Note: File deletions from System Cleanup cannot be reverted).*
 
 ### >_ Live Console
-* **Nova Execution Terminal:** Monitor live system output and execution commands right inside the app, running with elevated administrative permissions.
+* **Live Execution Terminal:** Monitor live system output and execution commands right inside the app, running with elevated administrative permissions.
 
+**NOTE: The features, UI elements, and system tweaks described or shown in this documentation are subject to change. Specific tools may be added, modified, or removed in future releases without prior notice as the application evolves.**
 ---
 
 ## 🛠️ Installation & Usage
