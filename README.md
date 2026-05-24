@@ -50,6 +50,9 @@ WinOptKP is divided into dedicated modules to give you precise control over your
 2. **Run as Administrator:** WinOptKP requires elevated privileges to modify system services, network stacks, and registry keys. The app will verify permissions on launch.
 3. **Navigate & Apply:** Select a category from the sidebar, review the tweaks, and click the apply button for your selected fixes.
 
+
+**Update Cycle: As a native desktop application, WinOptKP requires manual verification for new builds. To ensure you are running the most optimized version, please check the Releases section on GitHub weekly. Note that an integrated automatic update feature is currently in active development and will be included in a future release to streamline this process.**
+
 ---
 
 ## ⚖️ Legal & License
