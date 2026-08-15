@@ -3,12 +3,6 @@
 
 ---
 
-## 📸 Interface Overview
-<img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/bdf70c54-d60c-468b-af87-4aaa770a93a5" />
-
-
----
-
 ## 🚀 Features
 
 WinOptKP is divided into dedicated modules to give you precise control over your operating system:
