@@ -1,0 +1,274 @@
+WINOPTKP PRIVACY POLICY
+
+Last Updated: August 15, 2026
+
+© 2026 Palaparthi Sai Karthikeya. All Rights Reserved.
+
+1. INTRODUCTION
+
+WinOptKP ("WinOptKP", "Software", "we", "us", or "our") is a Windows desktop application that provides system monitoring, diagnostics, Windows configuration management, optimization, safety, and related functionality.
+
+This Privacy Policy explains what information WinOptKP accesses, what happens to that information, and what information, if any, is transmitted outside your device.
+
+Our core privacy principle is simple:
+
+WinOptKP is designed to operate locally on your Windows device and does not operate a developer-controlled system for collecting, selling, profiling, or monetizing information about its users.
+
+2. NO DEVELOPER DATA COLLECTION
+
+WinOptKP does not intentionally collect personal information for the developer.
+
+WinOptKP does not require an account and does not require you to provide your:
+
+• Name
+• Email address
+• Telephone number
+• Postal address
+• Payment information
+• Contacts
+• Photos
+• Documents
+• Messages
+• Social-media information
+• Advertising identifiers
+
+WinOptKP does not sell, rent, lease, broker, monetize, or trade personal information.
+
+WinOptKP does not operate an advertising network.
+
+WinOptKP does not intentionally use personal information for:
+
+• Behavioral advertising
+• Cross-site tracking
+• User profiling
+• Targeted advertising
+• Data brokerage
+• Marketing databases
+• User scoring or profiling unrelated to the application's functionality
+
+WinOptKP does not maintain a developer-controlled database containing users' system telemetry or optimization history.
+
+3. INFORMATION ACCESSED LOCALLY
+
+WinOptKP necessarily accesses information from your Windows device in order to provide its advertised functionality.
+
+Depending on the features you use and the information exposed by Windows and your hardware, this may include:
+
+• CPU model, topology, utilization and supported frequency information
+• GPU model, utilization, memory and driver information
+• Physical memory and memory utilization
+• Storage devices, volumes, capacity and usage
+• Windows version, build, architecture and configuration
+• Hardware and device information
+• Windows performance information
+• Relevant Windows Registry configuration
+• The current state of supported optimizations
+• Windows System Restore information
+• Application configuration
+• Locally generated logs
+• Locally generated diagnostic information
+
+This information is used to operate WinOptKP and provide the features you request.
+
+Where such information is processed by WinOptKP, it is processed locally on your Windows device unless this Privacy Policy expressly identifies a specific external service involved in the relevant functionality.
+
+4. SYSTEM OPTIMIZATIONS AND WINDOWS CONFIGURATION
+
+Some WinOptKP features modify Windows configuration only after the applicable user action and confirmation.
+
+Depending on the optimization, this may involve:
+
+• Windows Registry settings
+• Windows system configuration
+• Networking configuration
+• Privacy-related settings
+• Performance-related settings
+• System services
+• Other Windows configuration supported by the application
+
+WinOptKP may read a setting before and after an operation to determine its current state and verify whether a requested change was successfully applied.
+
+These operations are performed locally on the Windows device.
+
+WinOptKP does not transmit your Registry configuration, optimization state, or resulting system configuration to the developer.
+
+5. LOCAL LOGS, CONFIGURATION, AND DIAGNOSTIC DATA
+
+WinOptKP may create and retain information locally on your device, including:
+
+• Application configuration
+• Application logs
+• Crash information
+• Diagnostic information
+• Cached information
+• Tweak or optimization history
+• Other data required for local application operation
+
+This information is used to operate WinOptKP, preserve your settings, troubleshoot failures, and provide diagnostic functionality.
+
+WinOptKP does not routinely upload these files to the developer.
+
+If you voluntarily copy, export, upload, email, publish, or otherwise share a log, diagnostic report, screenshot, or other information with another person or service, that information is no longer solely under WinOptKP's control. You should review exported material before sharing it.
+
+6. INTERNET CONNECTIONS
+
+WinOptKP's core local monitoring and optimization functionality does not require the transmission of system telemetry to the developer.
+
+Certain features may use Internet connectivity, including software update and release-discovery functionality.
+
+When WinOptKP connects to an external service, that service may receive ordinary technical information associated with the network connection, such as an IP address, request metadata, timestamps, or download information, as part of normal Internet communication.
+
+Such information is processed by the relevant external service under that service's own privacy practices and is not WinOptKP collecting system telemetry for the developer.
+
+7. GITHUB
+
+WinOptKP may use GitHub for software releases, update discovery, update downloads, source-code hosting, and related distribution functionality.
+
+GitHub operates independently of WinOptKP and may process technical information associated with requests, downloads, security, abuse prevention, and service operation according to GitHub's own policies.
+
+WinOptKP does not use GitHub to create advertising profiles or to upload your system telemetry, Registry state, optimization history, or diagnostic data to the developer.
+
+8. MICROSOFT STORE
+
+When WinOptKP is installed or updated through the Microsoft Store, Microsoft may independently process information associated with Store usage, licensing, installation, updates, security, diagnostics, and operation of the Store service.
+
+Such processing is performed by Microsoft under Microsoft's applicable terms and privacy practices and is separate from WinOptKP's own data practices.
+
+WinOptKP does not receive or create a developer-controlled personal profile merely because the application is distributed through the Microsoft Store.
+
+9. UPDATES
+
+WinOptKP may check for new software releases and may download update packages when update functionality is enabled or requested.
+
+Update checks and downloads may involve external release infrastructure such as GitHub and, for the Microsoft Store version, Microsoft Store services.
+
+WinOptKP does not use update functionality to intentionally collect:
+
+• Personal profiles
+• Advertising identifiers
+• Behavioral histories
+• Marketing information
+• System telemetry for the developer
+
+Update packages may be cryptographically verified before installation where supported by the applicable distribution channel.
+
+10. ADVERTISING AND TRACKING
+
+WinOptKP does not contain advertising networks.
+
+WinOptKP does not intentionally use:
+
+• Advertising identifiers
+• Behavioral advertising
+• Cross-site tracking
+• Tracking pixels
+• Analytics SDKs
+• Fingerprinting for user tracking
+• Data brokers
+• Marketing profiles
+• User profiling unrelated to application functionality
+
+WinOptKP does not monetize user information.
+
+11. SHARING, SALE, OR DISCLOSURE
+
+WinOptKP does not sell or rent personal information.
+
+WinOptKP does not provide personal information to advertisers or data brokers.
+
+WinOptKP does not intentionally disclose users' system telemetry or diagnostic information to third parties for advertising, profiling, or marketing purposes.
+
+This does not prevent disclosure when required by applicable law, valid legal process, or a lawful request from a competent authority.
+
+12. CHILDREN
+
+WinOptKP is not designed to collect personal information from children.
+
+WinOptKP does not knowingly maintain a developer-controlled database of children's personal information.
+
+13. DATA RETENTION
+
+WinOptKP does not maintain a developer-controlled database of user system telemetry or personal profiles.
+
+Information generated locally by the application remains on your device until it is removed by you, Windows, the application, an uninstall operation, or another local process.
+
+Third-party services, including GitHub and Microsoft, may independently retain technical or service-related information according to their own policies and applicable retention requirements.
+
+14. SECURITY
+
+WinOptKP is designed to keep normal system telemetry, configuration, logs, diagnostic information, and optimization state on the user's device.
+
+No software can guarantee absolute security. You should use reasonable security measures, keep Windows up to date, obtain WinOptKP from trusted distribution channels, and protect your Windows account and device.
+
+Where WinOptKP transmits information to an external service for a specific supported feature, the transmission uses the mechanisms provided by that service.
+
+15. USER CONTROL
+
+Because WinOptKP does not maintain a developer-controlled account or personal-data profile, there is generally no remotely stored WinOptKP profile for a user to log into, modify, or delete.
+
+You can control locally stored WinOptKP information through the application's settings, Windows storage controls, uninstall process, or direct deletion of applicable local application data where appropriate.
+
+You remain in control of whether to use optional features such as updates, diagnostics, or system optimizations, subject to functionality and security requirements of the application and its distribution channel.
+
+If applicable law provides rights regarding personal data processed by us, those rights remain available to the extent required by that law.
+
+16. PRIVACY REQUESTS
+
+For privacy questions, requests, or concerns relating to WinOptKP, contact:
+
+Palaparthi Sai Karthikeya
+
+Privacy Contact:
+ishdisgnr1811@gmail.com
+
+Project:
+https://github.com/kpssisccool/WinOptKP
+
+When contacting us about a privacy matter, please provide enough information for us to understand and respond to the request.
+
+17. THIRD-PARTY PRIVACY PRACTICES
+
+WinOptKP may interact with third-party services for distribution, updates, or other explicitly identified functionality.
+
+WinOptKP does not control the independent privacy practices of third parties.
+
+Relevant third parties may include:
+
+• Microsoft / Microsoft Store
+• GitHub
+
+You should review the privacy policies of those services for information about their independent processing activities.
+
+18. CHANGES TO THIS PRIVACY POLICY
+
+This Privacy Policy may be updated if WinOptKP's functionality, third-party services, information practices, or applicable legal requirements change.
+
+The current version will be published at the official WinOptKP privacy-policy URL.
+
+The "Last Updated" date identifies the current version.
+
+Material changes will be reflected in an updated version of this Policy.
+
+19. LEGAL EFFECT
+
+This Privacy Policy describes WinOptKP's intended privacy and information practices.
+
+Nothing in this Privacy Policy is intended to waive, exclude, restrict, or limit any right, remedy, obligation, or protection that cannot lawfully be waived, excluded, restricted, or limited under applicable law.
+
+If a mandatory law in a jurisdiction where WinOptKP is distributed imposes requirements that differ from this Policy, those mandatory requirements apply to the extent required by law.
+
+20. PLAIN-LANGUAGE SUMMARY
+
+In simple terms:
+
+• WinOptKP does not require an account.
+• WinOptKP does not contain advertising.
+• WinOptKP does not sell personal information.
+• WinOptKP does not operate a user-tracking or advertising system.
+• WinOptKP does not intentionally collect personal information for the developer.
+• WinOptKP processes the system information it needs locally to provide its functionality.
+• WinOptKP does not intentionally transmit your system telemetry, Registry configuration, optimization state, logs, or diagnostic information to the developer.
+• GitHub and Microsoft may independently process technical information when their services are used for distribution, updates, or Store operation.
+• If WinOptKP's actual data practices materially change, this Privacy Policy will be updated.
+
+© 2026 Palaparthi Sai Karthikeya. All Rights Reserved.
