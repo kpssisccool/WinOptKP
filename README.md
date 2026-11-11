@@ -9,8 +9,6 @@ Monitor system activity, clean up selected files, troubleshoot network settings,
 [**Microsoft Store ↗**](https://apps.microsoft.com/detail/9nb5v71xc9zh?hl=en-US&gl=IN) · [**Latest GitHub release**](https://github.com/kpssisccool/WinOptKP/releases/latest) · [**Report a problem**](https://github.com/kpssisccool/WinOptKP/issues/new)
 
 [![Latest release](https://img.shields.io/github/v/release/kpssisccool/WinOptKP?display_name=tag&sort=semver)](https://github.com/kpssisccool/WinOptKP/releases)
-[![Platform](https://img.shields.io/badge/platform-Windows%2011-0078D4)](https://www.microsoft.com/windows/windows-11)
-[![UI framework](https://img.shields.io/badge/UI-WinUI%203-0078D4)](https://learn.microsoft.com/windows/apps/winui/winui3/)
 [![License](https://img.shields.io/badge/license-Proprietary-red)](LICENSE)
 
 </div>
